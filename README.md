@@ -8,6 +8,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/lf-neves/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
@@ -32,6 +33,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/lf-neves/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +106,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
