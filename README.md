@@ -7,6 +7,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/lf-neves/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
@@ -27,6 +28,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/lf-neves/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
@@ -93,4 +95,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
