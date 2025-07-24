@@ -39,6 +39,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/lf-neves/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -107,8 +108,10 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
