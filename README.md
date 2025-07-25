@@ -6,6 +6,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
