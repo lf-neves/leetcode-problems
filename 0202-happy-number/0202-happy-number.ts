@@ -11,12 +11,8 @@ function isHappy(n: number): boolean {
             sumArray.push(Number(stringNumber[i]))
         }
 
-        console.log(sumArray)
-        console.log(result)
-
         checkedNumbers.push(result)
         result = sumArray.reduce((acc, total) => {
-            console.log('--->', total, acc)
             return acc + Math.pow(total, 2)           
         }, 0)
 
