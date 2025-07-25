@@ -10,6 +10,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/lf-neves/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
@@ -55,6 +56,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/lf-neves/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -81,6 +83,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
