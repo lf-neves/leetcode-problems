@@ -6,10 +6,6 @@ function merge(intervals: number[][]): number[][] {
 
 
     for (let i = 0; i < intervals.length; i++) {
-        if (i + 1 < sortedIntervals.length) {
-            console.log(sortedIntervals[i][1], sortedIntervals[i + 1][0])
-        }
-
         if (
             i + 1 < sortedIntervals.length &&
             currentInterval[1] >= sortedIntervals[i + 1][0]
