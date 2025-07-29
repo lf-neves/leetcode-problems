@@ -1,6 +1,5 @@
 function merge(intervals: number[][]): number[][] {
     const concatenatedIntervals = []
-
     const sortedIntervals = intervals.sort((intA, intB) => intA[0] - intB[0])
     let currentInterval = sortedIntervals[0]
 
