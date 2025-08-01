@@ -15,17 +15,17 @@ function hasCycle(head: ListNode | null): boolean {
         return false;
     }
     
-    const visitedNodes: ListNode[] = []
-    let currentNode = head;
+    let fastPointer = head;
+    let slowPointer = head;
 
-    while(!visitedNodes.includes(currentNode)){
-        visitedNodes.push(currentNode)
-        currentNode = currentNode?.next;
+    while(fastPointer && fastPointer.next){
+        fastPointer = fastPointer.next?.next;
+        slowPointer = slowPointer.next;
 
-        if(currentNode === null){
-            return false;
+        if(fastPointer === slowPointer){
+            return true
         }
     }
 
-    return true;
+    return false;
 };
