@@ -2,15 +2,14 @@ function evalRPN(tokens: string[]): number {
     const stack = [];
 
     for(let i=0;i<tokens.length;i++){
-        console.log('===> ', stack)
-
         if(`${Number(tokens[i])}` === tokens[i]){
             stack.push(Number(tokens[i]))
         } else if(tokens[i] === '+'){
             stack.push(stack.pop() + stack.pop())
         }
         else if(tokens[i] === '-'){
-            stack.push(stack.pop() - stack.pop())
+            const firstElement = stack.pop()
+            stack.push(stack.pop() - firstElement)
         } 
         else if(tokens[i] === '*'){
             stack.push(stack.pop() * stack.pop())
