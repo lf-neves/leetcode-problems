@@ -102,6 +102,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
@@ -158,10 +159,12 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
