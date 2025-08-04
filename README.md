@@ -158,5 +158,10 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
