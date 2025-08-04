@@ -68,6 +68,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lf-neves/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lf-neves/leetcode-problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/lf-neves/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -161,6 +162,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lf-neves/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/lf-neves/leetcode-problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
