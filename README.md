@@ -181,19 +181,23 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
