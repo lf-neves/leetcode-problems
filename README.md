@@ -87,6 +87,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0228-summary-ranges](https://github.com/lf-neves/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/lf-neves/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
+| [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
@@ -130,6 +131,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/lf-neves/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
