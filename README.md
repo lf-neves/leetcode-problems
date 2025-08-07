@@ -31,6 +31,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0006-zigzag-conversion](https://github.com/lf-neves/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/lf-neves/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/lf-neves/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lf-neves/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
@@ -49,6 +50,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0001-two-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
@@ -228,4 +230,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
