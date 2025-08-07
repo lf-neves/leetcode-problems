@@ -33,6 +33,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0013-roman-to-integer](https://github.com/lf-neves/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/lf-neves/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/lf-neves/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -80,6 +81,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lf-neves/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lf-neves/leetcode-problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -234,4 +236,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
