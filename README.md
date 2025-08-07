@@ -241,6 +241,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
