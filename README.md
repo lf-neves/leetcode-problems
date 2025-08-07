@@ -45,6 +45,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lf-neves/leetcode-problems/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,6 +228,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
