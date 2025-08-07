@@ -27,12 +27,6 @@ function buildTree(inorder: number[], postorder: number[]): TreeNode | null {
     const leftPostOrderSlice = postorder.slice(0, leftInorderSlice.length)
     const rightPostOrderSlice = postorder.slice(leftInorderSlice.length)
 
-    console.log('leftInorderSlice: ', leftInorderSlice)
-    console.log('rightInorderSlice: ', rightInorderSlice)
-
-    console.log('leftPostOrderSlice: ', leftPostOrderSlice)
-    console.log('rightPostOrderSlice: ', rightPostOrderSlice)
-
     root.left = buildTree(leftInorderSlice, leftPostOrderSlice)
     root.right = buildTree(rightInorderSlice, rightPostOrderSlice)
 
