@@ -26,6 +26,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/lf-neves/leetcode-problems/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/lf-neves/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
