@@ -61,6 +61,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/lf-neves/leetcode-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lf-neves/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lf-neves/leetcode-problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -109,6 +110,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/lf-neves/leetcode-problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/lf-neves/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -122,6 +124,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/lf-neves/leetcode-problems/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Math
 |  |
