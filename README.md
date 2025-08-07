@@ -67,6 +67,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0057-insert-interval](https://github.com/lf-neves/leetcode-problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lf-neves/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/lf-neves/leetcode-problems/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lf-neves/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,6 +108,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lf-neves/leetcode-problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
