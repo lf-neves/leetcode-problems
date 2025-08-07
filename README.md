@@ -8,6 +8,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0001-two-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/lf-neves/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -27,6 +28,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lf-neves/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/lf-neves/leetcode-problems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/lf-neves/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/lf-neves/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
@@ -112,6 +114,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/lf-neves/leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
