@@ -17,6 +17,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lf-neves/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/lf-neves/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +48,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -78,6 +80,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lf-neves/leetcode-problems/tree/master/0228-summary-ranges) |
@@ -113,6 +116,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lf-neves/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
@@ -255,6 +259,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
