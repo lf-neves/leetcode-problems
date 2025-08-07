@@ -12,6 +12,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lf-neves/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
@@ -53,6 +54,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0057-insert-interval](https://github.com/lf-neves/leetcode-problems/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/lf-neves/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/lf-neves/leetcode-problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lf-neves/leetcode-problems/tree/master/0135-candy) |
@@ -185,6 +187,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -210,10 +213,12 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
