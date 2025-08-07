@@ -81,6 +81,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lf-neves/leetcode-problems/tree/master/0228-summary-ranges) |
@@ -107,6 +108,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -151,6 +153,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0013-roman-to-integer](https://github.com/lf-neves/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
