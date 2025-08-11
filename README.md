@@ -23,6 +23,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0217-contains-duplicate](https://github.com/lf-neves/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0219-contains-duplicate-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lf-neves/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/lf-neves/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -130,6 +132,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lf-neves/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/lf-neves/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
@@ -148,6 +151,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +171,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -324,4 +329,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
