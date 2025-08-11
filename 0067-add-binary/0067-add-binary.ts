@@ -24,5 +24,5 @@ function addBinary(a: string, b: string): string {
         }
     }
 
-    return result;
+    return !result.length ? '0' : result;
 };
