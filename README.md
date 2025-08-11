@@ -26,6 +26,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 ## Counting
@@ -52,6 +54,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -315,4 +318,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
