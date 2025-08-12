@@ -262,6 +262,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -284,6 +285,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -318,6 +320,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -353,6 +356,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
