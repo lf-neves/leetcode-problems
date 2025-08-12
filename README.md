@@ -29,6 +29,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lf-neves/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/lf-neves/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 ## Two Pointers
@@ -270,6 +272,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
@@ -283,6 +286,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -294,6 +298,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
