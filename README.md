@@ -58,6 +58,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +116,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 ## Two Pointers
 |  |
