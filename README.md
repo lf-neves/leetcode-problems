@@ -198,6 +198,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/lf-neves/leetcode-problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Design
@@ -284,6 +285,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0021-merge-two-sorted-lists](https://github.com/lf-neves/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/lf-neves/leetcode-problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 ## Tree
 |  |
