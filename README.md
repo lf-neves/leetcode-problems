@@ -119,6 +119,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +204,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0326-power-of-three](https://github.com/lf-neves/leetcode-problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Design
 |  |
 | ------- |
@@ -424,4 +426,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0207-course-schedule](https://github.com/lf-neves/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
