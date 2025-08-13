@@ -116,6 +116,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 ## Two Pointers
@@ -177,6 +178,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
