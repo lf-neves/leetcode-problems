@@ -71,6 +71,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lf-neves/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/lf-neves/leetcode-problems/tree/master/0015-3sum) |
@@ -176,6 +177,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lf-neves/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -387,6 +389,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
