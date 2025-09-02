@@ -115,6 +115,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0228-summary-ranges](https://github.com/lf-neves/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/lf-neves/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +156,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lf-neves/leetcode-problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -196,6 +198,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
@@ -445,6 +448,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0067-add-binary](https://github.com/lf-neves/leetcode-problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
 ## Topological Sort
 |  |
