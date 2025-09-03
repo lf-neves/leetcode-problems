@@ -133,6 +133,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -464,6 +465,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Topological Sort
 |  |
 | ------- |
