@@ -131,6 +131,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +290,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Union Find
 |  |
 | ------- |
