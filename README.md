@@ -163,6 +163,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +232,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
@@ -473,4 +475,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
