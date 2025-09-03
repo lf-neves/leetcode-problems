@@ -227,6 +227,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -308,6 +309,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0203-remove-linked-list-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -459,4 +461,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
