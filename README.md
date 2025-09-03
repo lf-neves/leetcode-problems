@@ -291,6 +291,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Union Find
 |  |
 | ------- |
@@ -315,6 +316,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0203-remove-linked-list-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0328-odd-even-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
