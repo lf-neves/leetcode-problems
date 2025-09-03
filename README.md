@@ -63,6 +63,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Counting
 |  |
@@ -195,6 +196,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0179-largest-number](https://github.com/lf-neves/leetcode-problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
 |  |
 | ------- |
