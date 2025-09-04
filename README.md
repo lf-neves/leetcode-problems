@@ -65,6 +65,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
 | ------- |
@@ -466,6 +467,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
 | ------- |
@@ -483,4 +485,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
