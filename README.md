@@ -34,6 +34,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -198,6 +200,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0179-largest-number](https://github.com/lf-neves/leetcode-problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
 |  |
