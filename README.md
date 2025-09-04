@@ -136,6 +136,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -241,6 +242,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
@@ -487,6 +489,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Number Theory
 |  |
 | ------- |
