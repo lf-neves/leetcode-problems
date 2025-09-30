@@ -367,6 +367,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -394,6 +395,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -416,6 +418,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
+| [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -441,6 +444,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
