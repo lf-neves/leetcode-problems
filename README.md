@@ -372,6 +372,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -400,6 +401,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -450,6 +452,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -475,6 +478,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Graph
 |  |
 | ------- |
