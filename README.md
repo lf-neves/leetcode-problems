@@ -362,6 +362,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -388,6 +389,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
@@ -435,6 +437,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
