@@ -128,6 +128,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/lf-neves/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -272,12 +273,14 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lf-neves/leetcode-problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,6 +367,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
@@ -442,6 +446,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
@@ -453,6 +458,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 ## Trie
 |  |
 | ------- |
