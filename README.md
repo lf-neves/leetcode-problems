@@ -37,6 +37,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lf-neves/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -393,6 +394,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -436,6 +438,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -467,6 +470,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -506,6 +510,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
