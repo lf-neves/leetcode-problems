@@ -198,6 +198,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lf-neves/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -394,6 +395,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1254-deepest-leaves-sum](https://github.com/lf-neves/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -438,6 +440,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1254-deepest-leaves-sum](https://github.com/lf-neves/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -511,6 +514,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1254-deepest-leaves-sum](https://github.com/lf-neves/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -546,6 +550,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Graph
 |  |
 | ------- |
