@@ -285,6 +285,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -386,6 +387,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -432,6 +434,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -505,6 +508,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -546,6 +550,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
