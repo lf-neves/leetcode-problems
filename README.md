@@ -258,6 +258,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/lf-neves/leetcode-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Randomized
@@ -280,6 +281,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0143-reorder-list](https://github.com/lf-neves/leetcode-problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lf-neves/leetcode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lf-neves/leetcode-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
@@ -372,6 +374,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/lf-neves/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -495,6 +498,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/lf-neves/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -545,6 +549,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
@@ -603,4 +608,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
