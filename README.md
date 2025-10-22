@@ -106,6 +106,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lf-neves/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/lf-neves/leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
@@ -371,6 +372,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -495,6 +497,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0104-maximum-depth-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -534,6 +537,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0004-median-of-two-sorted-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -549,6 +553,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
