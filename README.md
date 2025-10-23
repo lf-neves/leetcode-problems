@@ -92,6 +92,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0027-remove-element](https://github.com/lf-neves/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/lf-neves/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/lf-neves/leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
@@ -621,6 +622,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
