@@ -147,6 +147,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -255,6 +256,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2481-strictly-palindromic-number](https://github.com/lf-neves/leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Design
@@ -325,6 +327,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Union Find
@@ -363,6 +366,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/lf-neves/leetcode-problems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/lf-neves/leetcode-problems/tree/master/0394-decode-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -595,6 +599,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
 | ------- |
