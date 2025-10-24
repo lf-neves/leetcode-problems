@@ -95,6 +95,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0039-combination-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/lf-neves/leetcode-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lf-neves/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -626,6 +627,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/lf-neves/leetcode-problems/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
