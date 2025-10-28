@@ -13,22 +13,22 @@
  */
 
 function reverseOddLevels(root: TreeNode | null): TreeNode | null {
-    const reverse = (leftNode: TreeNode | null, rightNode: TreeNode | null, level: number) => {
-        if(!leftNode || !rightNode){
-            return null;
+    const reverseLevels = (rightNode: TreeNode | null, leftNode: TreeNode | null, level: number ) => {
+        if(!rightNode || !leftNode){
+            return;
         }
 
-        if (level % 2 !== 0) {
-            const prov = leftNode.val;
-            leftNode.val = rightNode.val;
-            rightNode.val = prov;
+        if(level % 2 === 1){
+            const temp = rightNode.val
+            rightNode.val = leftNode.val
+            leftNode.val = temp
         }
 
-        reverse(leftNode.left, rightNode.right, level + 1)
-        reverse(leftNode.right, rightNode.left, level + 1)
+        reverseLevels(leftNode.left, rightNode.right, level + 1)
+        reverseLevels(leftNode.right, rightNode.left, level + 1)
     }
 
-    reverse(root.left, root.right, 1)
+    reverseLevels(root.left, root.right, 1)
 
     return root
 };
