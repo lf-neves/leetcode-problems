@@ -15,18 +15,21 @@
 
 
 function bstToGst(root: TreeNode | null): TreeNode | null {
-    var sum=0;
-    function recursion(root: TreeNode){
-        if(root == null)
-            return;
-        
-        recursion(root.right);
-        sum+=root.val;
-        root.val=sum;
-        recursion(root.left);
-    };
+    let currentSum = 0
     
-    recursion(root);
+    const traverse = (node: TreeNode | null) => {
+        if(!node){
+            return;
+        }
 
-    return root;
+        traverse(node.right)
+        currentSum += node.val
+        node.val = currentSum
+        traverse(node.left)
+       
+    }
+
+    traverse(root)
+
+    return root
 };
