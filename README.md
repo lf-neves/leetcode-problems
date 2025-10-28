@@ -72,6 +72,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3379-score-of-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
