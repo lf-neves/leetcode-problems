@@ -13,21 +13,27 @@
  */
 
 function deepestLeavesSum(root: TreeNode | null): number {
-    const sumOfNodesByLevel = []
+    const leafsWithLevel = []
 
-    const dfs = (node: TreeNode, level: number) => {
-        sumOfNodesByLevel[level] = (sumOfNodesByLevel[level] ?? 0) + node.val;
-
-        if(node.right){
-            dfs(node.right, level + 1)
+    const dfs = (node: TreeNode | null, level: number) => {
+        if (!node) {
+            return
         }
 
-        if(node.left){
-            dfs(node.left, level + 1)
+        if (!node.left && !node.right) {
+            leafsWithLevel.push([node.val, level])
         }
+
+        dfs(node.left, level + 1)
+        dfs(node.right, level + 1)
     }
 
-    dfs(root, 0);
+    dfs(root, 0)
 
-    return sumOfNodesByLevel.pop() || 0;
+
+    leafsWithLevel.sort(([valueA, levelA], [valueB, levelB]) => levelA - levelB)
+    const deepestLevel = leafsWithLevel[leafsWithLevel.length - 1][1]
+    const deepestLevelLeafsValues = leafsWithLevel.map(([value, level]) => level === deepestLevel ? value : 0 )
+
+    return deepestLevelLeafsValues.reduce((curr, total) => curr + total, 0)
 };
