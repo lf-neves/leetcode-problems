@@ -13,24 +13,36 @@
  */
 
 function sumEvenGrandparent(root: TreeNode | null): number {
-    const nodesQueue = [{node: root, parent: -1, gParent: -1}]
-    let evenSum = 0;
+    if (!root) {
+        return 0
+    }
 
-    while(nodesQueue.length){
-        const {node, parent, gParent} = nodesQueue.shift()
+    if (!root.left && !root.right) {
+        return 0
+    }
 
-        if(gParent % 2 === 0){
-            evenSum += node.val
-        }
+    const stack = [[null, root]]
+    let sum = 0
 
-        if(node.left){
-            nodesQueue.push({node: node.left, parent: node.val, gParent: parent})
+    while (stack.length) {
+        const [parentNode, node] = stack.pop()
+
+        if (node.left) {
+            if (parentNode && parentNode.val % 2 === 0) {
+                sum += node.left.val;
+            }
+
+            stack.push([node, node.left])
         }
 
         if(node.right){
-            nodesQueue.push({node: node.right, parent: node.val, gParent: parent})
+            if (parentNode && parentNode.val % 2 === 0) {
+                sum += node.right.val;
+            }
+
+            stack.push([node, node.right])
         }
     }
 
-    return evenSum;
+    return sum;
 };
