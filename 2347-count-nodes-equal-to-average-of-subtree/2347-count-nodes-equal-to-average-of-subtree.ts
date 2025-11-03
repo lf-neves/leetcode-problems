@@ -14,33 +14,27 @@
 
 function averageOfSubtree(root: TreeNode | null): number {
     let count = 0;
+    let visitedNodes = 0;
     
-    const dfs = (node: TreeNode | null) => {
-        if(node === null){
-            return [0, 0]
+    const dfs = (node: TreeNode | null, ) => {
+        if(!node){
+            return [0, 0];
         }
 
-        if(node.left === null && node.right === null){
-            count += 1;
-            return [node.val, 1];
-        }
+        const [leftSum, leftNumberOfNodes] = dfs(node.left)
+        const [rightSum, rightNumberOfNodes] = dfs(node.right)
+        const currentSum = leftSum + rightSum + node.val
+        const currentNumberOfNodes = leftNumberOfNodes + rightNumberOfNodes + 1
+        const currentAverage = Math.floor(currentSum/currentNumberOfNodes)
 
-        const [leftCurrentSum, leftNumNodes] = dfs(node.left)
-        const [rightCurrentSum, rightNumNodes] = dfs(node.right)
-        
-        const sumAtRoot = leftCurrentSum + rightCurrentSum + node.val;
-        const countAtRoot = leftNumNodes + rightNumNodes + 1;
-        const subTreeAvg = Math.floor(sumAtRoot / countAtRoot)
-        
-        if(node.val === subTreeAvg){
+        if(currentAverage === node.val){
             count++;
         }
 
-        return [sumAtRoot, countAtRoot]
-
+        return [currentSum, currentNumberOfNodes];
     }
 
     dfs(root)
 
-    return count; 
+    return count
 };
