@@ -285,6 +285,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0020-valid-parentheses](https://github.com/lf-neves/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lf-neves/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/lf-neves/leetcode-problems/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -375,6 +376,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
@@ -431,6 +433,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
@@ -518,6 +521,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0101-symmetric-tree) |
