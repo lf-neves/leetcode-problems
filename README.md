@@ -295,6 +295,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -403,6 +404,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -457,6 +459,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0669-trim-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/lf-neves/leetcode-problems/tree/master/0733-flood-fill) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
