@@ -404,6 +404,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -462,6 +463,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
@@ -557,6 +559,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0450-delete-node-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/lf-neves/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0637-average-of-levels-in-binary-tree) |
