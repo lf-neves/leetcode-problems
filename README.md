@@ -37,6 +37,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lf-neves/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/lf-neves/leetcode-problems/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/lf-neves/leetcode-problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
@@ -148,6 +149,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/lf-neves/leetcode-problems/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -482,6 +484,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/lf-neves/leetcode-problems/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/lf-neves/leetcode-problems/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/lf-neves/leetcode-problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
