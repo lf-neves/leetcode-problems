@@ -1,28 +1,26 @@
 function isAnagram(s: string, t: string): boolean {
     if(s.length !== t.length){
-        return false;
+        return false
     }
-    
-    const map = {}
+
+    if(s === t){
+        return true;
+    }
+
+    const lettersMap: Record<string, number> = {}
 
     for(let i=0;i<s.length;i++){
-        if(!map[s[i]]){
-            map[s[i]] = 1;
-        } else {
-            map[s[i]] += 1;
-        }
+        lettersMap[s[i]] = (lettersMap[s[i]] ?? 0) + 1
     }
 
     for(let i=0;i<t.length;i++){
-        if(!map[t[i]] || map[t[i]] <= 0){
-            return false;
+        if(lettersMap[t[i]] > 0){
+            lettersMap[t[i]] -= 1
+        } else {
+            lettersMap[t[i]] = 1
         }
 
-        map[t[i]]--
     }
 
-
-    console.log(Object.values(map))
-
-    return true;
+    return Object.values(lettersMap).reduce((total, acc) => total + acc) === 0
 };
