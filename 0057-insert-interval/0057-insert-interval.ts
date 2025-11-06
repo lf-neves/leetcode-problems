@@ -1,27 +1,31 @@
 function insert(intervals: number[][], newInterval: number[]): number[][] {
-    let n = intervals.length,
-        i = 0,
-        res = [];
-
-    // Case 1: No overlapping before merging intervals
-    while (i < n && intervals[i][1] < newInterval[0]) {
-        res.push(intervals[i]);
-        i++;
+    if(!intervals.length){
+        return [newInterval]
     }
 
-    // Case 2: Overlapping and merging intervals
-    while (i < n && newInterval[1] >= intervals[i][0]) {
-        newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
-        newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
-        i++;
-    }
-    res.push(newInterval);
 
-    // Case 3: No overlapping after merging newInterval
-    while (i < n) {
-        res.push(intervals[i]);
-        i++;
+    let lowest = Infinity, biggest = -Infinity
+    const result = []
+
+    intervals.forEach(interval => {
+        const [start, end] = interval
+        const [newStart, newEnd] = newInterval
+
+        if ((start <= newStart && end >= newStart) ||
+            (newStart <= start && newEnd >= end) ||
+            (newStart <= start && newEnd <= end && newEnd >= start)) {
+            lowest = Math.min(lowest, start, newStart)
+            biggest = Math.max(biggest, end, newEnd)
+        } else {
+            result.push(interval)
+        }
+    })
+
+    if(biggest === -Infinity && lowest === Infinity){
+        result.push(newInterval)
+    }else {
+        result.push([lowest, biggest])
     }
 
-    return res;
+    return result.sort((a, b) => a[1] - b[1])
 }
