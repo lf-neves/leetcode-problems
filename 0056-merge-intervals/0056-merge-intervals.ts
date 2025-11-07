@@ -1,22 +1,41 @@
+function hasOverlapping(intervalA: number[], intervalB: number[]) {
+    const [startA, endA] = intervalA
+    const [startB, endB] = intervalB
+
+    if (endA < startB || endB < startA) {
+        return false;
+    }
+
+    return true;
+}
+
+function mergeInterval(intervalA: number[], intervalB: number[]){
+    const [startA, endA] = intervalA
+    const [startB, endB] = intervalB
+    const newStart = Math.min(startA, startB)
+    const newEnd = Math.max(endA, endB)
+
+    return [newStart, newEnd]
+}
+
 function merge(intervals: number[][]): number[][] {
-    const concatenatedIntervals = []
-    const sortedIntervals = intervals.sort((intA, intB) => intA[0] - intB[0])
-    let currentInterval = sortedIntervals[0]
+    const result = []
+    intervals.sort((a, b) => a[0] - b[0]);
 
+    while (intervals.length > 1) {
+        const currInterval = intervals.shift()
+        const nextInterval = intervals.shift()
 
-    for (let i = 0; i < intervals.length; i++) {
-        if (
-            i + 1 < sortedIntervals.length &&
-            currentInterval[1] >= sortedIntervals[i + 1][0]
-        ) {
-            const [start, end] = currentInterval;
-            currentInterval = [Math.min(start, sortedIntervals[i + 1][0]), Math.max(sortedIntervals[i + 1][1], end)]
-
+        if (hasOverlapping(currInterval, nextInterval)) {
+            const mergedInterval = mergeInterval(currInterval, nextInterval)
+            intervals.unshift(mergedInterval)
         } else {
-            concatenatedIntervals.push(currentInterval)
-            currentInterval = sortedIntervals[i + 1]
+            result.push(currInterval)
+            intervals.unshift(nextInterval)
         }
     }
 
-    return concatenatedIntervals
+    result.push(intervals.pop())
+
+    return result;
 };
