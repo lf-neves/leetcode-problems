@@ -1,26 +1,20 @@
-function getLowerHeight(a, b) {
-    return a < b ? a : b
-}
-
 function maxArea(height: number[]): number {
-    let left = 0
-    let right = height.length - 1
-    let biggestArea = 0
+    let start = 0, end = height.length - 1
+    let maxArea = 0
 
-    while (left < right) {
-        const lowerHeight = getLowerHeight(height[right], height[left])
-        const currentArea = lowerHeight * (right - left)
+    while (start < end) {
+        const currentArea = Math.min(height[start], height[end]) * (end - start)
 
-        if (currentArea > biggestArea) {
-            biggestArea = currentArea
+        if (currentArea > maxArea) {
+            maxArea = currentArea
         }
 
-        if (height[left] < height[right]) {
-            left++
-        } else {
-            right--
+        if(height[start] > height[end]){
+            end--
+        }else {
+            start++
         }
     }
 
-    return biggestArea
+    return maxArea
 };
