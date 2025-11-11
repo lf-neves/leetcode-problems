@@ -1,14 +1,11 @@
 function removeDuplicates(nums: number[]): number {
-    const map = {}
-
-    for(let i=0;i<nums.length;i++){
-        if(map[nums[i]]){
-            nums.splice(i, 1)
-            i--;
-        } else {
-            map[nums[i]] = 1
+    let index = 1
+    for(let i=1;i<nums.length;i++){
+        if(nums[i-1] !== nums[i]){
+            nums[index] = nums[i]
+            index++
         }
     }
 
-    return nums.length
+    return index;
 };
