@@ -148,6 +148,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0733-flood-fill](https://github.com/lf-neves/leetcode-problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/lf-neves/leetcode-problems/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -240,6 +241,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/lf-neves/leetcode-problems/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
