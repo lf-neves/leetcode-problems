@@ -1,35 +1,33 @@
 class MinStack {
-    private stack
+    stack: number[]
+    minStack: number[]
 
     constructor() {
-        this.stack = new Array()
+        this.stack = []
+        this.minStack = []
     }
 
     push(val: number): void {
-        return this.stack.push(val)
+        this.stack.push(val)
+
+        const currentMin = this.minStack.length === 0 ? val : this.minStack[this.minStack.length - 1];
+        if (val < currentMin) this.minStack.push(val);
+        else this.minStack.push(currentMin);
     }
 
     pop(): void {
-        return this.stack.pop()
+       if (this.stack.length > 0) {
+            this.stack.pop();
+            this.minStack.pop();
+        }
     }
 
     top(): number {
-        if (!this.stack.length) {
-            return null;
-        }
-
         return this.stack[this.stack.length - 1]
     }
 
     getMin(): number {
-        if (!this.stack.length) {
-            return null;
-        }
-
-        const sortedStack: number[] = Array.from(this.stack)
-        sortedStack.sort((a, b) => a-b)
-
-        return sortedStack[0] as number
+        return this.minStack[this.stack.length - 1]
     }
 }
 
