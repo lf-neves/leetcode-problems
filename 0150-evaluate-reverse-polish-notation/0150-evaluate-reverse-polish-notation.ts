@@ -1,24 +1,31 @@
 function evalRPN(tokens: string[]): number {
-    const stack = [];
+    const stack = []
+    const isNumber = (val: string) => !Number.isNaN(val)
 
-    for(let i=0;i<tokens.length;i++){
-        if(`${Number(tokens[i])}` === tokens[i]){
-            stack.push(Number(tokens[i]))
-        } else if(tokens[i] === '+'){
-            stack.push(stack.pop() + stack.pop())
+    for (let i = 0; i < tokens.length; i++) {
+        const curr = Number(tokens[i])
+        if (!Number.isNaN(curr)) {
+            stack.push(curr)
+
+            continue;
         }
-        else if(tokens[i] === '-'){
-            const firstElement = stack.pop()
-            stack.push(stack.pop() - firstElement)
-        } 
-        else if(tokens[i] === '*'){
-            stack.push(stack.pop() * stack.pop())
+
+        const op1 = stack.pop()
+        const op2 = stack.pop()
+        let result
+
+
+        if (tokens[i] === '+') {
+            result = op2 + op1
+        } else if (tokens[i] === '-') {
+            result = op2 - op1
+        } else if (tokens[i] === '*') {
+            result = op2 * op1
+        } else if (tokens[i] === '/') {
+            result = Math.trunc(op2 / op1)
         }
-        else if(tokens[i] === '/'){
-            const firstElement = stack.pop()
-            const result = stack.pop() / firstElement
-            stack.push(result > 0 ? Math.floor(result) : Math.ceil(result))
-        }
+
+        stack.push(result)
     }
 
     return stack.pop()
