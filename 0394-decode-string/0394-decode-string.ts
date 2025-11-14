@@ -1,21 +1,32 @@
 function decodeString(s: string): string {
-    const stack: [number, string][] = []
+    const stack = []
+    let currentNum = 0
     let currentStr = ''
-    let currentNumber = 0
 
-    for (let ch of s) {
-        if (ch === '[') {
-            stack.push([currentNumber, currentStr])
-            currentStr = ''
-            currentNumber = 0
-        } else if (ch === ']') {
-            const [repeatNumber, poppedStr] = stack.pop()
-            currentStr = poppedStr + currentStr.repeat(repeatNumber)
-        } else if (!isNaN(Number(ch))) {
-            currentNumber = currentNumber * 10 + (Number(ch))
-        } else {
-            currentStr += ch
+    for (let char of s) {
+        if (!isNaN(Number(char))) {
+            currentNum = currentNum * 10 + Number(char)
+            continue;
         }
+
+        if (char === '[') {
+            stack.push(currentStr)
+            stack.push(currentNum)
+            currentStr = ""
+            currentNum = 0
+
+            continue;
+        }
+
+        if (char === ']') {
+            const num = stack.pop()
+            const prevStr = stack.pop()
+            currentStr = prevStr + currentStr.repeat(num)
+
+            continue
+        }
+
+        currentStr += char
     }
 
     return currentStr
