@@ -11,20 +11,23 @@
  */
 
 function reverseList(head: ListNode | null): ListNode | null {
-    if(!head){
-        return head
+    if (!head) {
+        return null;
     }
 
-    let current = head
-    let previousNode = null
-    let nextNode = head.next
+    let prev = null, current = head
 
-    while(current !== null){
-        current.next = previousNode
-        previousNode = current
-        current = nextNode
-        nextNode = current?.next
+    while (current.next !== null) {
+        const prov = current.next
+
+        console.log(`prev(${prev?.val}) - current(${current?.val}) - prov(${prov?.val})`)
+
+        current.next = prev
+        prev = current
+        current = prov
     }
 
-    return previousNode
+    current.next = prev
+
+    return current;
 };
