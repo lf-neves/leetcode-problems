@@ -11,24 +11,34 @@
  */
 
 function mergeTwoLists(list1: ListNode | null, list2: ListNode | null): ListNode | null {
-    if(list1 === null && list2 === null){
-        return null
+    if (list1 === null) {
+        return list2
     }
 
-    if(list1 === null){
-        return list2;
+    if (list2 === null) {
+        return list1
     }
 
-    if(list2 === null){
-        return list1;
+
+   if (list2.val < list1.val) {
+        // swap so list1 is always the smaller head
+        const temp = list1;
+        list1 = list2;
+        list2 = temp;
     }
 
-    if(list1.val < list2.val){
-        list1.next = mergeTwoLists(list1.next, list2)
-        return list1;
+    let current1 = list1, current2 = list2
+
+    while (current1 && current2) {
+        if (current1.next === null || current2.val <= current1.next?.val) {
+            const prov = current2.next
+            current2.next = current1.next
+            current1.next = current2;
+            current2 = prov
+        } else {
+            current1 = current1.next
+        }
     }
 
-    list2.next = mergeTwoLists(list1, list2.next)
-
-    return list2
+    return list1
 };
