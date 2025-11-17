@@ -19,9 +19,6 @@ function reverseList(head: ListNode | null): ListNode | null {
 
     while (current.next !== null) {
         const prov = current.next
-
-        console.log(`prev(${prev?.val}) - current(${current?.val}) - prov(${prov?.val})`)
-
         current.next = prev
         prev = current
         current = prov
