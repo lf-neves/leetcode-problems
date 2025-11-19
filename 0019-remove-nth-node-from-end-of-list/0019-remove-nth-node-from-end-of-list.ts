@@ -11,31 +11,19 @@
  */
 
 function removeNthFromEnd(head: ListNode | null, n: number): ListNode | null {
-    if(head === null){
-        return head;
+    let pseudoHead = new ListNode(-1, head)
+    let slowPointer = pseudoHead, fastPointer = pseudoHead
+
+    for(let i=0;i<n;i++){
+        fastPointer = fastPointer?.next
     }
 
-    let currentNode = head
-    let listSize = 0
-
-    while(currentNode){
-        currentNode = currentNode.next;
-        listSize++;
+    while(fastPointer && fastPointer.next !== null){
+        fastPointer = fastPointer.next
+        slowPointer = slowPointer.next
     }
 
-    if(listSize - n === 0){
-        return null;
-    }
+    slowPointer.next = slowPointer.next.next;
 
-    let pseudoHead = new ListNode();
-    pseudoHead.next = head;
-    currentNode = head;
-
-    for(let i=0;i<listSize-n-1;i++){
-        currentNode = currentNode.next;
-    }
-
-    currentNode.next = currentNode.next?.next ?? null;
-
-    return head;
+    return pseudoHead.next
 };
