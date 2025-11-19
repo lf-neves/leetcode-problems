@@ -11,18 +11,17 @@
  */
 
 function hasCycle(head: ListNode | null): boolean {
-    if(head === null || head.next === null){
-        return false;
+    if (!head || !head.next) {
+        return false
     }
-    
-    let fastPointer = head;
-    let slowPointer = head;
 
-    while(fastPointer && fastPointer.next){
-        fastPointer = fastPointer.next?.next;
-        slowPointer = slowPointer.next;
+    let slowPointer = head, fastPointer = head;
 
-        if(fastPointer === slowPointer){
+    while (fastPointer !== null) {
+        fastPointer = fastPointer?.next?.next ?? null;
+        slowPointer = slowPointer?.next ?? null
+
+        if (fastPointer === slowPointer) {
             return true
         }
     }
