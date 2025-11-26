@@ -648,6 +648,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/lf-neves/leetcode-problems/tree/master/1791-find-center-of-star-graph) |
 ## Queue
 |  |
 | ------- |
