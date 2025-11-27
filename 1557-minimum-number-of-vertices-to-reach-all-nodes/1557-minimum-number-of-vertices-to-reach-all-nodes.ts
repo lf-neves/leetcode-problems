@@ -15,5 +15,4 @@ function findSmallestSetOfVertices(n: number, edges: number[][]): number[] {
 
 
     return Object.entries(incomeEdgesByNodeMap).filter(([node, incomeEdges]) => incomeEdges === 0).map(([node]) => Number(node))
-
 };
