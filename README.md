@@ -76,6 +76,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lf-neves/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
@@ -160,6 +161,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lf-neves/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lf-neves/leetcode-problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -349,6 +351,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0682-baseball-game](https://github.com/lf-neves/leetcode-problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lf-neves/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/lf-neves/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lf-neves/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Union Find
