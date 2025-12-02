@@ -156,6 +156,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/lf-neves/leetcode-problems/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lf-neves/leetcode-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -341,6 +342,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0200-number-of-islands](https://github.com/lf-neves/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/lf-neves/leetcode-problems/tree/master/0733-flood-fill) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -542,6 +544,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lf-neves/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/lf-neves/leetcode-problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/lf-neves/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -653,6 +656,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lf-neves/leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/lf-neves/leetcode-problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/lf-neves/leetcode-problems/tree/master/1791-find-center-of-star-graph) |
 ## Queue
@@ -704,6 +708,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -716,4 +721,5 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lf-neves/leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
