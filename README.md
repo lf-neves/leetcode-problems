@@ -63,6 +63,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0179-largest-number](https://github.com/lf-neves/leetcode-problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/lf-neves/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/lf-neves/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/lf-neves/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/lf-neves/leetcode-problems/tree/master/0290-word-pattern) |
@@ -286,6 +287,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0155-min-stack](https://github.com/lf-neves/leetcode-problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/lf-neves/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/lf-neves/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Randomized
@@ -476,6 +478,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0200-number-of-islands](https://github.com/lf-neves/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lf-neves/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/lf-neves/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -625,6 +628,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lf-neves/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/lf-neves/leetcode-problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
