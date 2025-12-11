@@ -61,6 +61,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0058-length-of-last-word](https://github.com/lf-neves/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/lf-neves/leetcode-problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/lf-neves/leetcode-problems/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lf-neves/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/lf-neves/leetcode-problems/tree/master/0179-largest-number) |
@@ -119,6 +120,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0066-plus-one](https://github.com/lf-neves/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/lf-neves/leetcode-problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -353,6 +355,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/lf-neves/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lf-neves/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
@@ -473,6 +476,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0100-same-tree) |
@@ -721,6 +725,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0039-combination-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lf-neves/leetcode-problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lf-neves/leetcode-problems/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/lf-neves/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/lf-neves/leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
