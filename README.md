@@ -200,6 +200,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/lf-neves/leetcode-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lf-neves/leetcode-problems/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0056-merge-intervals](https://github.com/lf-neves/leetcode-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lf-neves/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lf-neves/leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/lf-neves/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -397,6 +399,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0141-linked-list-cycle](https://github.com/lf-neves/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/lf-neves/leetcode-problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lf-neves/leetcode-problems/tree/master/0328-odd-even-linked-list) |
@@ -638,6 +641,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
@@ -754,4 +758,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lf-neves/leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
