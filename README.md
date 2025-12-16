@@ -647,6 +647,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/lf-neves/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -704,6 +705,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lf-neves/leetcode-problems/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/lf-neves/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/lf-neves/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/lf-neves/leetcode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lf-neves/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
