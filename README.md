@@ -39,6 +39,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0433-minimum-genetic-mutation](https://github.com/lf-neves/leetcode-problems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0690-employee-importance](https://github.com/lf-neves/leetcode-problems/tree/master/0690-employee-importance) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lf-neves/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/lf-neves/leetcode-problems/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -163,6 +164,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lf-neves/leetcode-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/lf-neves/leetcode-problems/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -457,6 +459,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
@@ -613,6 +616,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0669-trim-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/lf-neves/leetcode-problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
@@ -645,6 +649,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0169-majority-element](https://github.com/lf-neves/leetcode-problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Trie
 |  |
