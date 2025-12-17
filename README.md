@@ -123,6 +123,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0057-insert-interval](https://github.com/lf-neves/leetcode-problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/lf-neves/leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lf-neves/leetcode-problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -257,6 +258,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0004-median-of-two-sorted-arrays](https://github.com/lf-neves/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lf-neves/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lf-neves/leetcode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lf-neves/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lf-neves/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lf-neves/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -365,6 +367,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0048-rotate-image](https://github.com/lf-neves/leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lf-neves/leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/lf-neves/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lf-neves/leetcode-problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/lf-neves/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lf-neves/leetcode-problems/tree/master/0200-number-of-islands) |
