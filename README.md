@@ -166,6 +166,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0792-binary-search](https://github.com/lf-neves/leetcode-problems/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/lf-neves/leetcode-problems/tree/master/0824-number-of-lines-to-write-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -277,6 +278,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lf-neves/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lf-neves/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/lf-neves/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/lf-neves/leetcode-problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Math
 |  |
@@ -654,6 +656,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Trie
 |  |
@@ -703,6 +706,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lf-neves/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -772,4 +776,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/lf-neves/leetcode-problems/tree/master/0148-sort-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
