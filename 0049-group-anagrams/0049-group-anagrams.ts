@@ -1,17 +1,17 @@
-
-
 function groupAnagrams(strs: string[]): string[][] {
-    const map = {}
+    const result = {}
 
     for(let i=0;i<strs.length;i++){
-        const sortedString = strs[i].split('').sort().join('')
+        const curr = strs[i]
+        const currSortedStr = curr.split('').sort().join('')
 
-        if(!map[sortedString]){
-            map[sortedString] = [strs[i]]
-        }else {
-            map[sortedString].push(strs[i])
+        if(!result[currSortedStr]){
+            result[currSortedStr] = [curr]
+        } else {
+            result[currSortedStr].push(curr)
         }
     }
 
-    return Object.values(map)
+    return Object.values(result)
+
 };
