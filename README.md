@@ -798,5 +798,10 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/lf-neves/leetcode-problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
