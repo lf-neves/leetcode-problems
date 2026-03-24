@@ -173,6 +173,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
+| [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lf-neves/leetcode-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -381,6 +382,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0200-number-of-islands](https://github.com/lf-neves/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lf-neves/leetcode-problems/tree/master/0289-game-of-life) |
 | [0733-flood-fill](https://github.com/lf-neves/leetcode-problems/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
@@ -541,6 +543,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0933-increasing-order-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/lf-neves/leetcode-problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/lf-neves/leetcode-problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/lf-neves/leetcode-problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -586,6 +589,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0813-all-paths-from-source-to-target](https://github.com/lf-neves/leetcode-problems/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/lf-neves/leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lf-neves/leetcode-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/lf-neves/leetcode-problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/lf-neves/leetcode-problems/tree/master/1254-deepest-leaves-sum) |
@@ -791,4 +795,8 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
