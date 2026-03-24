@@ -1,22 +1,24 @@
 function findCircleNum(isConnected: number[][]): number {
-    const visited = new Set()
+    const n = isConnected.length
+    const visited = new Array(n).fill(false)
     let provincesCount = 0
 
-    function visitAndSearchConnections(start){
-        visited.add(start)
-        for(let end = 0; end< isConnected.length; end++){
-            if(isConnected[start][end] && !visited.has(end)){
-                visitAndSearchConnections(end);
+    const dfs = (current) => {
+        for (let neighbor = 0; neighbor < n; neighbor++) {
+            if (!visited[neighbor] && isConnected[current][neighbor]) {
+                visited[neighbor] = true
+                dfs(neighbor)
             }
         }
     }
 
-    for(let start = 0; start < isConnected.length; start++){
-        if(!visited.has(start)){
-            provincesCount++;
-            visitAndSearchConnections(start);
+
+    for (let i = 0; i < n; i++) {
+        if (!visited[i]) {
+            dfs(i)
+            provincesCount++
         }
     }
 
-    return provincesCount;
+    return provincesCount
 };
