@@ -12,14 +12,27 @@
  * }
  */
 
-function maxDepthNode(node: TreeNode, currentDepth: number): number {
-    if (!node) {
-        return currentDepth
+function maxDepth(root: TreeNode | null): number {
+
+    if (!root) {
+        return 0
     }
 
-    return Math.max(maxDepthNode(node.left, currentDepth + 1), maxDepthNode(node.right, currentDepth + 1))
-}
+    const treeStack: Array<[TreeNode, number]> = [[root, 1]]
+    let maxDepth = 0
 
-function maxDepth(root: TreeNode | null): number {
-    return maxDepthNode(root, 0);
+    while (treeStack.length) {
+        const [currentNode, depth] = treeStack.pop()
+        maxDepth = Math.max(maxDepth, depth)
+
+        if (currentNode?.left) {
+            treeStack.push([currentNode.left, depth + 1])
+        }
+
+        if (currentNode?.right) {
+            treeStack.push([currentNode.right, depth + 1])
+        }
+    }
+
+    return maxDepth;
 };
