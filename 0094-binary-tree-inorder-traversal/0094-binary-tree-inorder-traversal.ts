@@ -14,20 +14,18 @@
 
 function inorderTraversal(root: TreeNode | null): number[] {
     const result = []
-
-    const dfs = (node: TreeNode | null) => {
+    
+    const dfs = (node: TreeNode) => {
         if(!node){
-            return;
+            return null;
         }
 
         dfs(node.left)
         result.push(node.val)
         dfs(node.right)
-
-        return;
     }
 
     dfs(root)
 
-    return result;
+    return result
 };
