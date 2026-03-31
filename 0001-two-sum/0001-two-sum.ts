@@ -1,14 +1,14 @@
 function twoSum(nums: number[], target: number): number[] {
-    const complementMap = {}
-
+    const hashMap = {}
+    
     for(let i=0;i<nums.length;i++){
-        const complement = target - nums[i]
+        const targetDifference = target - nums[i]
 
-        if(complementMap[complement] !== undefined){
-            return [complementMap[complement], i]
+        if(hashMap[targetDifference] !== undefined){
+           return [hashMap[targetDifference], i] 
         }
 
-        complementMap[nums[i]] = i
+        hashMap[nums[i]] = i
     }
 
     return []
