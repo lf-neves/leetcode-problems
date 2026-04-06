@@ -173,6 +173,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-monotonic-array](https://github.com/lf-neves/leetcode-problems/tree/master/0932-monotonic-array) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/lf-neves/leetcode-problems/tree/master/1020-number-of-enclaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -242,6 +243,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0389-find-the-difference](https://github.com/lf-neves/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lf-neves/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lf-neves/leetcode-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/lf-neves/leetcode-problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Greedy
 |  |
@@ -309,6 +311,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0326-power-of-three](https://github.com/lf-neves/leetcode-problems/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lf-neves/leetcode-problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/lf-neves/leetcode-problems/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lf-neves/leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -672,6 +675,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 | [0654-maximum-binary-tree](https://github.com/lf-neves/leetcode-problems/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lf-neves/leetcode-problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lf-neves/leetcode-problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/lf-neves/leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Trie
 |  |
@@ -743,6 +747,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/lf-neves/leetcode-problems/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/lf-neves/leetcode-problems/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Number Theory
@@ -773,6 +778,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lf-neves/leetcode-problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -782,6 +788,7 @@ This repo replicates the problem's solutions from Leetcode! - Created using [Lee
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lf-neves/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/lf-neves/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
